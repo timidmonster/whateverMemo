@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "한 장 메모",
+    "slug": "one-list-prototype",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.localonelist.prototype"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "75c1b29d-7270-4c19-87b2-4a8b3216b484"
+      }
+    }
+  }
+}
